@@ -1,0 +1,10 @@
+{"name": "Chiko", "score": 3854, "date": "Thursday / 06 / 2021"}
+{"name": "Trivago", "score": 2700, "date": "Monday / 29 / 2021"}
+{"name": "omer ilbert the king ", "score": 2600, "date": "Tuesday / 30 / 2021"}
+{"name": "yossi", "score": 2600, "date": "Friday / 02 / 2021"}
+{"name": "hello", "score": 2600, "date": "Thursday / 29 / 2021"}
+{"name": "moshe", "score": 2500, "date": "Tuesday / 27 / 2021"}
+{"name": "Fully Operational Bishop Pair", "score": 2300, "date": "Monday / 29 / 2021"}
+{"name": "TriviaTest123", "score": 2200, "date": "Tuesday / 30 / 2021"}
+{"name": "A very good player", "score": 2200, "date": "Sunday / 18 / 2021"}
+{"name": "HELLO", "score": 1905, "date": "Thursday / 17 / 2021"}
