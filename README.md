@@ -1,6 +1,7 @@
 # GamesWizard
 
 <small>A collection of simple games created in Python and Pygame.</small>
+
 <img src="./screenshots/menu.png" alt="Game's menu">
 
 <h2>Trivia</h2>
